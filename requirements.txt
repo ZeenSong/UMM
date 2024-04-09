@@ -1,0 +1,8 @@
+accelerate==0.23.0
+betty==0.3.2
+numpy==1.24.1
+opt_einsum==3.3.0
+Pillow==9.3.0
+torch==2.1.2
+torchvision==0.16.2
+tqdm==4.66.1
